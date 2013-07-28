@@ -10,7 +10,7 @@
 body {
   background-image: url('../img/bg.png');
   padding-bottom: 40px;
-  color: #5a5a5a;
+  color: rgb(43,78,114);
 }
 
 hr {
